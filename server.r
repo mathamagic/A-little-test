@@ -1,6 +1,6 @@
 library(shiny)
 library(datasets)
-runApp("C:\\Program Files\\R\\My Sweet Projects\\Basic Shiny App")
+#runApp("C:\\Program Files\\R\\My Sweet Projects\\Basic Shiny App")
 
 # We tweak the "am" field to have nicer factor labels. Since this doesn't
 # rely on any user inputs we can do this once at startup and then use the
